@@ -1,0 +1,59 @@
+body {
+	background-color: black;
+	width: 100%;
+	height: 100%;
+}
+.container {
+	background-color: white;
+	width: 700px;
+	height: 400px;
+	margin: auto;
+}
+#header-container {
+	background-color: white;
+	width: 700px;
+	height: 100px;
+	margin: 0px;
+	font-size: inherit;
+	position: relative;
+}
+#titulo {
+	font-family: "Dancing Script", cursive;
+	font-size: 25px;
+	position: absolute;
+	left: 30px;
+	top: -15px;
+}
+#logo {
+	position: absolute;
+	left: 85%;
+	top: 10px;
+}
+.text-1 {
+	font-family: "Dancing Script", cursive;
+	font-size: 22px;
+	width: 50%;
+	background-color: white;
+	padding-left: 20px;
+}
+.text-2 {
+	font-family: "Dancing Script", cursive;
+	font-size: 28px;
+	width: auto;
+	height: auto;
+	background-color: white;
+	position: absolute;
+	left: 56%;
+	top: 150px;
+}
+
+.button-container {
+	background-color: white;
+	height: 100px;
+	width: 700px;
+	position: relative;
+	top: 0;
+	left: 0;
+	text-align: center;
+}
+
